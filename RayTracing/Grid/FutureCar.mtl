@@ -1,0 +1,62 @@
+# Blender MTL File: 'Futuristic_Car.blend'
+# Material Count: 5
+
+newmtl Futuristic_Car
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\dwright\Desktop\CapstoneStuff\textures\Futuristic_Car_C.jpg
+map_Bump C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\Futuristic_Car_N.jpg
+map_Ks C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\Futuristic_Car_S.jpg
+refl C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\REF 1.jpg
+
+newmtl Futuristic_Car_Speed_Car_A_1.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\dwright\Desktop\CapstoneStuff\textures\Futuristic_Car_C.jpg
+map_Bump C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\Futuristic_Car_N.jpg
+map_Ks C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\Futuristic_Car_S.jpg
+refl C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\REF 1.jpg
+
+newmtl Futuristic_Car_black
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\REF 1.jpg
+
+newmtl Futuristic_Car_glass
+Ns 749.999996
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 0.134796
+illum 2
+map_d C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\REF 1.jpg
+refl C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\REF 1.jpg
+
+newmtl Futuristic_Car_untitled.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\dwright\Desktop\CapstoneStuff\textures\Speed_Car_c.png
+map_Bump C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\Futuristic_Car_N.jpg
+map_Ks C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\Futuristic_Car_S.jpg
+refl C:\\Users\\dwright\\Desktop\\CapstoneStuff\\textures\\REF 1.jpg

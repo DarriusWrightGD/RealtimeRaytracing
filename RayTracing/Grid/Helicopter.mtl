@@ -1,0 +1,42 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material_#222
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\dwright\\Documents\\New Unity Project 2\\Assets\\AEgis_Technologies\\HH-65C_Dauphin_USCG\\Texture\\hh65_dauphin_USCG_orange.psd
+
+newmtl Material_#223
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\dwright\\Documents\\New Unity Project 2\\Assets\\AEgis_Technologies\\HH-65C_Dauphin_USCG\\Texture\\rotor-blade-single-001_blk.psd
+
+newmtl Material_#224
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\dwright\\Documents\\New Unity Project 2\\Assets\\AEgis_Technologies\\HH-65C_Dauphin_USCG\\Texture\\trotor-multiblade-001_std.psd
+
+newmtl Material_#225
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\dwright\\Documents\\New Unity Project 2\\Assets\\AEgis_Technologies\\HH-65C_Dauphin_USCG\\Texture\\a10_gear_map.psd
