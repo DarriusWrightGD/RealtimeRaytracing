@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grid", "Grid\Grid.vcxproj", "{850CEBE4-2F70-449D-809A-E96DC31FE952}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2D5F52CC-468A-4BFF-B80A-2A301D604D4C} = {2D5F52CC-468A-4BFF-B80A-2A301D604D4C}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{2D5F52CC-468A-4BFF-B80A-2A301D604D4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{850CEBE4-2F70-449D-809A-E96DC31FE952}.Debug|Win32.ActiveCfg = Debug|Win32
+		{850CEBE4-2F70-449D-809A-E96DC31FE952}.Debug|Win32.Build.0 = Debug|Win32
+		{850CEBE4-2F70-449D-809A-E96DC31FE952}.Release|Win32.ActiveCfg = Release|Win32
+		{850CEBE4-2F70-449D-809A-E96DC31FE952}.Release|Win32.Build.0 = Release|Win32
+		{2D5F52CC-468A-4BFF-B80A-2A301D604D4C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D5F52CC-468A-4BFF-B80A-2A301D604D4C}.Debug|Win32.Build.0 = Debug|Win32
+		{2D5F52CC-468A-4BFF-B80A-2A301D604D4C}.Release|Win32.ActiveCfg = Release|Win32
+		{2D5F52CC-468A-4BFF-B80A-2A301D604D4C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
