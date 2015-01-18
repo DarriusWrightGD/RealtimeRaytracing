@@ -111,7 +111,7 @@ private:
 	void sceneInitialize();
 	void sceneRelease();
 	cl_mem stackMem;
-	OctreeManager octManager;
+	
 	KDTreeManager kdManager;
 	int numberOfMeshes;
 	cl_mem kdTreeMem;
@@ -251,7 +251,6 @@ private:
 
 	//update release mem
 	cl_mem objectIndicesMem;
-	cl_mem octreeMem;
 	cl_mem objectPhotonCount;
 	cl_mem cellIndicesMem;
 	cl_mem cellIncrementsMem;

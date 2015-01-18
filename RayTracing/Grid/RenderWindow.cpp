@@ -68,7 +68,6 @@ RenderWindow::~RenderWindow(void)
 
 	delete[]readBuffer;
 	clReleaseMemObject(clImage);
-	clReleaseMemObject(octreeMem);
 	clReleaseMemObject(kdTreeMem);
 	clReleaseMemObject(kdTreeIndicesMem);
 	//clReleaseMemObject(objectPhotonCount);
@@ -305,21 +304,8 @@ void RenderWindow::construct()
 	gameObjectList.append(lightObject);
 
 
-	//addMesh("FutureCar.obj", glm::vec3(0.0f,2.0f,9.0f), MaterialType::SPECULAR);
-	//addMesh("shadowPlane.obj", glm::vec3(0.0f,0.0f,6.0f),DIFFUSE);
-
-//	addMesh("shadowPlane.obj", glm::vec3(0.0f,0.0f,6.0f), DIFFUSE);
-//	addMesh("Helicopter.obj", glm::vec3(0.0f,0.0f,6.0f), DIFFUSE);
-	//addMesh("cylinder.obj", glm::vec3(0.0f,0.0f,10.0f), SPECULAR);
-	//addMesh("suzy2.obj", glm::vec3(0.0f,0.0f,10.0f), SPECULAR);
-	//addMesh("suzy.obj", glm::vec3(0.0f,0.0f,8.0f), SPECULAR);
-	//	addMesh("Box.obj", glm::vec3(0.0f,2.0f,9.0f));
-	//addMesh("isoSphere.obj", glm::vec3(0.0f,2.0f,9.0f), MaterialType::SPECULAR);
-	//	addMesh("simpleTorus.obj", glm::vec3(0.0f,2.0f,9.0f), MaterialType::DIFFUSE);
-	//	addMesh("suzy.obj", glm::vec3(0.0f,0.0f,6.0f));
-
-	addMesh("basicCube.obj", glm::vec3(0.0f,0.0f,8.5f), SPECULAR);
-	addMesh("shadowPlane.obj", glm::vec3(0.0f,0.0f,6.0f), DIFFUSE);
+	addMesh("Models/basicCube.obj", glm::vec3(0.0f,0.0f,8.5f), SPECULAR);
+	addMesh("Models/shadowPlane.obj", glm::vec3(0.0f,0.0f,6.0f), DIFFUSE);
 
 	cameraObject = new GameObject("Camera", Type::Camera_Type, 0 );
 	gameObjectList.append(cameraObject);
@@ -340,10 +326,6 @@ void RenderWindow::construct()
 	readBuffer = new uchar [windowWidth * windowHeight * 4];
 
 
-	Octree root(box.min + ((box.max - box.min)/ 2.0f),box,0);
-	octManager = OctreeManager(root);
-	//octManager.insert(objects,meshes);
-	octreeMem = clCreateBuffer(context, CL_MEM_READ_ONLY | CL_MEM_COPY_HOST_PTR, sizeof(Octree) * octManager.octreeNodes.size(),&octManager.octreeNodes[0], &err );
 
 	DEPTH_REACHED++;
 
@@ -498,8 +480,8 @@ void RenderWindow::scene1()
 {
 	sceneRelease();
 	clearScene();
-	addMesh("basicCube.obj", glm::vec3(0.0f,0.0f,8.5f), TRANS);
-	addMesh("shadowPlane.obj", glm::vec3(0.0f,0.0f,6.0f), DIFFUSE);
+	addMesh("Models/basicCube.obj", glm::vec3(0.0f,0.0f,8.5f), TRANS);
+	addMesh("Models/shadowPlane.obj", glm::vec3(0.0f,0.0f,6.0f), DIFFUSE);
 	sceneInitialize();
 
 }
@@ -507,8 +489,8 @@ void RenderWindow::scene2()
 {
 	sceneRelease();
 	clearScene();
-	addMesh("shadowPlane.obj", glm::vec3(0,0,6), SPECULAR);
-	addMesh("cylinder.obj", glm::vec3(0.0f,0.0f,10.0f), SPECULAR);
+	addMesh("Models/shadowPlane.obj", glm::vec3(0,0,6), SPECULAR);
+	addMesh("Models/cylinder.obj", glm::vec3(0.0f,0.0f,10.0f), SPECULAR);
 	sceneInitialize();
 
 }
@@ -516,8 +498,8 @@ void RenderWindow::scene3()
 {
 	sceneRelease();
 	clearScene();
-	addMesh("shadowPlane.obj", glm::vec3(0,0,6), SPECULAR);
-	addMesh("smallSuzy.obj", glm::vec3(0.0f,1.0f,8.0f), DIFFUSE);
+	addMesh("Models/shadowPlane.obj", glm::vec3(0,0,6), SPECULAR);
+	addMesh("Models/smallSuzy.obj", glm::vec3(0.0f,1.0f,8.0f), DIFFUSE);
 
 	sceneInitialize();
 
@@ -526,7 +508,7 @@ void RenderWindow::scene4()
 {
 	sceneRelease();
 	clearScene();
-	addMesh("suzy2.obj", glm::vec3(0.0f,0.0f,10.0f), SPECULAR);
+	addMesh("Models/suzy2.obj", glm::vec3(0.0f,0.0f,10.0f), SPECULAR);
 
 	sceneInitialize();
 
@@ -537,7 +519,7 @@ void RenderWindow::scene5()
 {
 	sceneRelease();
 	clearScene();
-	addMesh("FutureCar.obj", glm::vec3(0,0,10), SPECULAR);
+	addMesh("Models/FutureCar.obj", glm::vec3(0,0,10), SPECULAR);
 
 	sceneInitialize();
 

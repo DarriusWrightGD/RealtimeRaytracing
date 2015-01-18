@@ -28,6 +28,7 @@ Rectangle
 		rayPanel.numberOfSamplesChanged.connect(numberOfSamplesChanged);
 	}
 
+	/*
 	Rectangle
 	{
 		id : searchBar;
@@ -43,11 +44,11 @@ Rectangle
 		{
 			id : search
 		}
-	}
+	}*/
 	Rectangle
 	{
 		id: gameObjectUIContainer
-		anchors.top : searchBar.bottom;
+		//anchors.top : searchBar.bottom;
 		anchors.topMargin : 20;
 		width : parent.width;
 		height : parent.height - rayPanel.height;
