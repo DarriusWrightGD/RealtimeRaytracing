@@ -1,0 +1,1510 @@
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\cuda_runtime.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_config.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\sal.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\ConcurrencySal.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vadefs.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\limits.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stddef.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\cuda_device_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\cuda_runtime_api.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\common_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\wtime.inl
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\math_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\math.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdlib.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cmath
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\yvals.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xkeycheck.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\use_ansi.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\math.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xtr1common
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cstdlib
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\channel_descriptor.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_11_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_12_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_13_double_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_20_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_35_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_32_atomic_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_20_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_30_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_35_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\sm_32_intrinsics.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\cuda_surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_fetch_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\cuda_texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_indirect_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\builtin_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\driver_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\surface_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\texture_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\host_defines.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_functions.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\device_launch_parameters.h
+c:\program files\nvidia gpu computing toolkit\cuda\v6.0\include\vector_types.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\iostream
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\istream
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\ostream
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\ios
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\climits
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\swprintf.inl
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cstring
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\exception
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstddef
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cstddef
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\eh.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\malloc.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xstring
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\limits
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\float.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtwrn.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\wchar.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\new
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xutility
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\utility
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdbg.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\type_traits
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xrefwrap
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\intrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\setjmp.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\immintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\wmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\nmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\smmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\tmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\pmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\emmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\mmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\ammintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\mm3dnow.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\mmintrin.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\ctype.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xdebug
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\system_error
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\errno.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\share.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\vector
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\cuda.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\thrust\detail\mpl\math.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\math_functions.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\common_functions.h
+d:\capstonebacktrack\raytracing\raytracing\grid\helper_math.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\cuda_runtime.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\cuda.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qconfig.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qfeatures.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsystemdetection.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qprocessordetection.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qcompilerdetection.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\algorithm
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtypeinfo.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtypetraits.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsysinfo.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlogging.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qflags.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtypeinfo.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtypetraits.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtypetraits.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbasicatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic_msvc.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qgenericatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtypeinfo.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtypetraits.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobalstatic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmutex.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnumeric.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs_impl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs_win.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qchar.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbytearray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrefcount.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qarraydata.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrefcount.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdarg.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrefcount.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\iterator
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbytearray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qalgorithms.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qiterator.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrefcount.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\list
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qscopedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbytearray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvarlengtharray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qcontainerfwd.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qalgorithms.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qisenum.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtypetraits.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\map
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\xtree
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject_impl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmargins.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpaintdevice.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmargins.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsize.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpalette.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qcolor.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qrgb.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qprocessordetection.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstringlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qalgorithms.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qdatastream.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qscopedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qiodevice.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpair.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qregexp.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstringmatcher.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qbrush.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpair.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvector.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qalgorithms.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qiterator.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrefcount.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qarraydata.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qscopedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qcolor.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qmatrix.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpolygon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvector.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qregion.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qdatastream.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qline.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qtransform.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qmatrix.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpainterpath.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qmatrix.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qline.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvector.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qscopedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpolygon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qregion.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qline.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qimage.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qtransform.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpaintdevice.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qrgb.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbytearray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpixmap.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpaintdevice.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qcolor.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsharedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qshareddata.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsharedpointer_impl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qhash.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qchar.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qiterator.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpair.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrefcount.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qimage.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qtransform.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfont.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsharedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfontmetrics.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfont.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsharedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfontinfo.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfont.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsharedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qsizepolicy.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qregion.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qbrush.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qcursor.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qkeysequence.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qapplication.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qcoreapplication.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qcoreevent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbytearray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qeventloop.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsize.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qcursor.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qguiapplication.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qcoreapplication.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qinputmethod.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlocale.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbytearray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmap.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qiterator.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrefcount.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpair.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qhash.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstringlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qshareddata.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsize.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qtimer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbasictimer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+d:\capstonebacktrack\raytracing\raytracing\grid\RenderWindow.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlayout.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qlayoutitem.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qsizepolicy.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qsizepolicy.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmargins.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qboxlayout.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qlayout.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qgridlayout.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qlayout.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlabel.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qframe.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qgraphicsview.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpainter.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qscopedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpixmap.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qimage.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qtextoption.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qchar.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpolygon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpen.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qcolor.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qbrush.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qbrush.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qmatrix.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qtransform.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfontinfo.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfontmetrics.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qscrollarea.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qabstractscrollarea.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qframe.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qgraphicsscene.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qbrush.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfont.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qtransform.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qmatrix.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpen.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qgraphicsscene.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qtimer.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\Windows.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\excpt.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\windef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\driverspecs.h
+c:\program files (x86)\windows kits\8.0\include\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack2.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\pshpack8.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\processenv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\bemapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winuser.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnls.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnls.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\wincon.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winver.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winreg.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\reason.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\cderr.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\dde.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ddeml.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\dlgs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\lzexpand.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mciapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmiscapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmiscapi2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\playsoundapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmeapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\timeapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\joystickapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\nb30.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\shellapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winperf.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winsock.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\wincrypt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\bcrypt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ncrypt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\bcrypt.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\dpapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winefs.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winscard.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\wtypes.h
+c:\program files (x86)\windows kits\8.0\include\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.0\include\shared\wtypesbase.h
+c:\program files (x86)\windows kits\8.0\include\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winioctl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\winsmcrd.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winspool.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\prsht.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ole2.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\objbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\cguid.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\objidl.h
+c:\program files (x86)\windows kits\8.0\include\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\urlmon.h
+c:\program files (x86)\windows kits\8.0\include\um\oleidl.h
+c:\program files (x86)\windows kits\8.0\include\um\servprov.h
+c:\program files (x86)\windows kits\8.0\include\um\msxml.h
+c:\program files (x86)\windows kits\8.0\include\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\propidl.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\commdlg.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\prsht.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\mcx.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\imm.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\ime_cmodes.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Lights\Light.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Objects\Material.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\\Middleware\OpenCL\include\CL/cl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\\Middleware\OpenCL\include\CL/cl_platform.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Objects\Object.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\\Middleware\OpenCL\include\CL/cl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\BoundingBox\BBox.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\\Middleware\OpenCL\include\CL/cl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\glm\glm.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/_fixes.hpp
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cassert
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_int.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\setup.hpp
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cassert
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_float.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\setup.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_vec.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\precision.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_int.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\precision.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\setup.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat2x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat2x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat2x2.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat2x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat2x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat2x3.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat2x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat2x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat2x4.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat3x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat3x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat3x2.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat3x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat3x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat3x3.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat3x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat3x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat3x4.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat4x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat4x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat4x2.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat4x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat4x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat4x3.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\mat4x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/type_mat4x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_mat4x4.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\trigonometric.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/func_trigonometric.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_trigonometric.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\_vectorize.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec1.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec1.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\exponential.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/func_exponential.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec1.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_exponential.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_vector_relational.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\precision.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\setup.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_vector_relational.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\_vectorize.hpp
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\cassert
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\assert.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\common.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/func_common.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\setup.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\precision.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_int.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\_fixes.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_common.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_vector_relational.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\_vectorize.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\packing.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/func_packing.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_packing.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_common.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_half.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\setup.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_half.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../fwd.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\geometric.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/func_geometric.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_geometric.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_exponential.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_common.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_float.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\matrix.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/func_matrix.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../detail/precision.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../detail/setup.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../detail/type_mat.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat2x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat2x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat2x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat3x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat3x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat3x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat4x2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat4x3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../mat4x4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_matrix.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\../geometric.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\vector_relational.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/func_vector_relational.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\integer.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/func_integer.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\setup.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\func_integer.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec2.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec3.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_vec4.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\type_int.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail\_vectorize.hpp
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\glm\glm.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/_fixes.hpp
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Objects\Sphere.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\\Middleware\OpenCL\include\CL/cl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\glm\glm.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/_fixes.hpp
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Random.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\ctime
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qelapsedtimer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Camera\Camera.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\glm\glm.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/_fixes.hpp
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\ExportHeader.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui\qwindow.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/QObject
+d:\capstonebacktrack\raytracing\raytracing\middleware\qt\include\qtcore\qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/QEvent
+d:\capstonebacktrack\raytracing\raytracing\middleware\qt\include\qtcore\qcoreevent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/QMargins
+d:\capstonebacktrack\raytracing\raytracing\middleware\qt\include\qtcore\qmargins.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/QRect
+d:\capstonebacktrack\raytracing\raytracing\middleware\qt\include\qtcore\qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qsurface.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qsurfaceformat.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpair.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsize.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qsurfaceformat.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qicon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsize.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpixmap.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qcursor.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qdebug.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qalgorithms.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qhash.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmap.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpair.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qtextstream.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qiodevice.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qchar.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlocale.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qscopedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvector.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qset.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qhash.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qcontiguouscache.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qatomic.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Objects\Triangle.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\glm\glm.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/_fixes.hpp
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\OAIL\include\assimp\Importer.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\sys/types.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\memory.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\crtdefs.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\math.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\defs.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\vector3.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\math.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/pushpack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/poppack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\vector2.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\math.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/pushpack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/poppack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\color4.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/pushpack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/poppack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\matrix3x3.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/pushpack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/poppack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\matrix4x4.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/pushpack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/poppack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\quaternion.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/pushpack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/poppack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\vector2.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\vector2.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\vector3.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\vector3.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\color4.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\color4.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\quaternion.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\quaternion.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\matrix3x3.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\matrix3x3.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\matrix4x4.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\matrix4x4.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\matrix4x4.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\matrix3x3.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\quaternion.h
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\math.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\config.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\OAIL\include\assimp\scene.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\texture.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/pushpack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/poppack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\mesh.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\light.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\camera.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\material.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/pushpack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\./Compiler/poppack1.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\material.inl
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\anim.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\quaternion.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\OAIL\include\assimp\postprocess.h
+d:\capstonebacktrack\raytracing\raytracing\middleware\oail\include\assimp\types.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Helper.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Objects\Mesh.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\\Middleware\OpenCL\include\CL/cl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Engine\Exception\OpenCLExceptions.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qdatetime.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsharedpointer.h
+d:\capstonebacktrack\raytracing\raytracing\grid\GameObject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml\qqmllist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qtqmlglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+d:\capstonebacktrack\raytracing\raytracing\grid\GameObjectContainer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml\qqmllist.h
+d:\capstonebacktrack\raytracing\raytracing\grid\Octree.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\glm\glm.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/_fixes.hpp
+d:\capstonebacktrack\raytracing\raytracing\grid\KDTree.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui\qevent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindowdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qregion.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qnamespace.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qkeysequence.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qcoreevent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmap.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvector.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qset.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qurl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbytearray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpair.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qfile.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qfiledevice.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qiodevice.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qvector2d.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qpoint.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qtouchdevice.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+d:\capstonebacktrack\raytracing\raytracing\grid\MainWindow.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qmainwindow.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qtabwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qicon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlayout.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qaction.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qkeysequence.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qicon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qactiongroup.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qaction.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qmenu.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qicon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qaction.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qmenubar.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qmenu.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qdialog.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qfiledialog.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qdir.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qfileinfo.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qfile.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qshareddata.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstringlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qshareddata.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qurl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qdialog.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qdebug.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlayout.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qcheckbox.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qabstractbutton.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qicon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qkeysequence.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlabel.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qtabwidget.h
+d:\capstonebacktrack\raytracing\raytracing\grid\UI\FloatSlider.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qslider.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qabstractslider.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlabel.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlayout.h
+d:\capstonebacktrack\raytracing\raytracing\grid\UI\IntSlider.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qslider.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlabel.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlayout.h
+d:\capstonebacktrack\raytracing\raytracing\grid\UI\Float3Slider.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\glm\glm.hpp
+d:\capstonebacktrack\raytracing\raytracing\middleware\glm\detail/_fixes.hpp
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qcombobox.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qabstractitemdelegate.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qstyleoption.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qabstractspinbox.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qvalidator.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qregexp.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qregularexpression.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstringlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qshareddata.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlocale.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qicon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qmatrix.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qslider.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qstyle.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsize.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qicon.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpixmap.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qpalette.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qsizepolicy.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qtabbar.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qtabwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qrubberband.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets/qframe.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qabstractitemmodel.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qhash.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvector.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qabstractitemmodel.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml\qqmlengine.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qurl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmap.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qjsengine.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qsharedpointer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qjsvalue.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qtqmlglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmlerror.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qtqmlglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qurl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmldebug.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qtqmlglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml\qqmlcomponent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqml.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmlprivate.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qtqmlglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qurl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmlparserstatus.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qtqmlglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmlpropertyvaluesource.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qtqmlglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmllist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qbytearray.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetaobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobjectdefs.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmlerror.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qstring.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qjsvalue.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQuick\qquickitem.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQuick/qtquickglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqml.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmlcomponent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/QObject
+d:\capstonebacktrack\raytracing\raytracing\middleware\qt\include\qtcore\qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/QList
+d:\capstonebacktrack\raytracing\raytracing\middleware\qt\include\qtcore\qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qevent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qfont.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qaccessible.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qcoreapplication.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qdebug.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qrect.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qset.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvector.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qvariant.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qcolor.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qevent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml\qqmlapplicationengine.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmlengine.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qurl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qobject.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qlist.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQuick\qquickview.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQuick/qquickwindow.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQuick/qtquickglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetatype.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qopengl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qt_windows.h
+C:\Program Files (x86)\Windows Kits\8.0\Include\um\GL/gl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qopenglext.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qwindow.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui/qevent.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qurl.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qqmldebug.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml\qqmlproperty.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtQml/qtqmlglobal.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore/qmetaobject.h
+d:\capstonebacktrack\raytracing\raytracing\grid\CudaWidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qwidget.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlayout.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtWidgets\qlabel.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qtimer.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtGui\qwindow.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qdebug.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\OAIL\include\assimp\Importer.hpp
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\OAIL\include\assimp\scene.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\OAIL\include\assimp\postprocess.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\cuda.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\cuda_runtime.h
+D:\CapstoneBacktrack\RayTracing\RayTracing\Middleware\Qt\include\QtCore\qelapsedtimer.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\cuda_texture_types.h
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.0\include\texture_types.h
